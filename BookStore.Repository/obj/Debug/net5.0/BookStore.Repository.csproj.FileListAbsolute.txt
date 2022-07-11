@@ -1,0 +1,15 @@
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\SEM_7_D2D\Summer_Internship\DAY_7\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
